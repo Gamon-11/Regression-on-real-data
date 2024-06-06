@@ -1,6 +1,6 @@
 #==============================================================================#
 # SD1 - SAE - Régression sur données réelles - SSTI203
-# Auteur : BOUCHER Nathan, BRAUD Ewen, GAMONDELE Maxime
+# Auteur : GAMONDELE Maxime
 # Date : 10/03/2024
 # Soucre : https://ecampus.unicaen.fr/my/
 #==============================================================================#
