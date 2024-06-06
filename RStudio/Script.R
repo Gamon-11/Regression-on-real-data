@@ -7,7 +7,7 @@
 
 #==============================================================================#
 # ---- Chargement des données ----#
-?boxplot
+
 readLines(con = "../Data/penguins.txt",
           n = 10)
 
